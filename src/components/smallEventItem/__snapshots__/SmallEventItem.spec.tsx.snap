@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "borderRadius": 16,
+      "marginHorizontal": 16,
+      "opacity": 1,
+      "overflow": "hidden",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "overflow": "hidden",
+        },
+        Object {
+          "height": 240,
+          "width": 400,
+        },
+      ]
+    }
+  >
+    <FastImageView
+      resizeMode="cover"
+      source={
+        Object {
+          "testUri": "../../../src/assets/images/events/2.webp",
+        }
+      }
+      style={
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+  </View>
+  <BVLinearGradient
+    colors={
+      Array [
+        0,
+        1879048192,
+      ]
+    }
+    endPoint={
+      Object {
+        "x": 0.5,
+        "y": 1,
+      }
+    }
+    locations={null}
+    startPoint={
+      Object {
+        "x": 0.5,
+        "y": 0,
+      }
+    }
+    style={
+      Object {
+        "bottom": 0,
+        "justifyContent": "flex-end",
+        "left": 0,
+        "padding": 32,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "avenir-heavy",
+            "fontSize": 36,
+          },
+          Object {
+            "color": "#FFFFFF",
+          },
+        ]
+      }
+    >
+      Business Head Meeting
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#5C6170",
+            "fontFamily": "avenir-roman",
+            "fontSize": 24,
+          },
+          Object {
+            "color": "#FFFFFF",
+            "opacity": 0.65,
+          },
+        ]
+      }
+    >
+      Mon Jul 18, 12:00 pm
+    </Text>
+  </BVLinearGradient>
+</View>
+`;

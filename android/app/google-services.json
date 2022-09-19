@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669630081653",
+    "project_id": "plasmatic-test",
+    "storage_bucket": "plasmatic-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669630081653:android:eda3d453efa648c816263c",
+        "android_client_info": {
+          "package_name": "com.plasmatic.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669630081653-jlv36t668rbl1bnrgs8c4eb8160t2opg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plasmatic.test",
+            "certificate_hash": "caf602321f78c4965b937c55d857f10a8589c488"
+          }
+        },
+        {
+          "client_id": "669630081653-74qgvprn7hti6ivorle4cmvbr2kknl5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NtHt1BKgx7IeA7yt3gxQ_WFyGwLWAGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669630081653-74qgvprn7hti6ivorle4cmvbr2kknl5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
